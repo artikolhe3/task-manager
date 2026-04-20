@@ -106,6 +106,7 @@ Frontend runs on: [http://localhost:3000](http://localhost:3000)
 * Deploy application
 
 ---
+Live = https://task-manager-lemon-psi.vercel.app/ 
 
 ## Author
 
